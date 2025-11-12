@@ -2,7 +2,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/autopyperf.svg?color=blue&label=PyPI)](https://pypi.org/project/autopyperf/)
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build](https://img.shields.io/github/actions/workflow/status/YOURNAME/autopyperf/python-package.yml?branch=main)](https://github.com/YOURNAME/autopyperf/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/Ithihasmadhu/autopyperf/python-package.yml?branch=main)](https://github.com/YOURNAME/autopyperf/actions)
 
 **autopyperf** is a lightweight, zero-dependency Python module that automatically profiles your code and suggests simple performance improvements — no configuration, no external data, just pure Python speed insights ⚙️  
 
